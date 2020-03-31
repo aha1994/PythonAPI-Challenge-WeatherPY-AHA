@@ -1,0 +1,25 @@
+Python-API-Homework-AaronAdams
+
+From the Max Temperature vs Latitude scatter plot, it appears that the max temperature
+seems to increase from -40 degrees latitude to about 20 degrees latitude. From
+20 degrees to 80 degrees, the max temperature decreases. There are a few
+cities that sort of break the trend, noticably the one at -30 latitude and
+~105 degrees max temperature. 
+
+Overall, the bulk of cities fell between the 80-100% humidty range. There is
+a noticable gap in the scatter plot between -20 and 20 on the x axis, and from
+0 to 60 on the y axis. This would suggest that cities near the equator rarely
+get below 60% humidity. In contrast, cities that had a latitude of -20 degrees
+displayed humidities almost over the enitre range of y values.
+
+Five distinct lines formed on the cloud coverage vs latitude scatter plot.
+These lines appear to be at 0, 20, 40, 75, and 100. This suggests that
+the cloud coverage might tend to be rounded or estimated to these whole
+values. Noticably, these lines extend over the the range of laititude values,
+suggesting that cloud coverage isn't not strongly related to latitude.
+
+Overall, the majority of cities had a wind speed of 10 mph or less.
+There is a gap in points on the plot from -20 to 20 latitude, and a wind speed
+above 15. This would weakly suggest that near the equator there is less 
+chance of experiencing a high wind speed.Interestingly, the highest windspeed was located at the city with the most
+negative (southern) latitude value. 
